@@ -169,14 +169,7 @@ You can also use Django’s test runner:
 python manage.py test
 ```
 
----
 
-## 🎬 Demo
-
-Watch this video to see the backend in action:  
-📺 [https://youtu.be/mM6vMMLYJHY](https://youtu.be/mM6vMMLYJHY)
-
----
 
 ## 🙌 Contributing
 
@@ -187,15 +180,3 @@ Watch this video to see the backend in action:
 5. Submit a pull request
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more info.
-
----
-
-## 👩‍💻 Author
-
-**Srilatha Patchava**  
-Email: srilathapatchava28@gmail.com  
-Assignment: Django Internship Backend Project
